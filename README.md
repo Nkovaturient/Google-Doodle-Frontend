@@ -1,4 +1,4 @@
-# Google Doodle ☄️
+# Google Doodle Landing Page Replica☄️
 - Inspired by the quick-tip, eye-catchy, unique and impressively styled doodles from the official <a href='https://doodles.google/'>Google Doodle</a> website, I have tried my humble efforts to design the frontend part of the landing page.
 - Indeed was sparked by the aesthetic appearance that is arresting as well as visually-appealing doodles concluded with glorious remark which got my hands to code. ✨ 🎇 🤠
 -  **Each Doodle tells a story** 🔖🍁
