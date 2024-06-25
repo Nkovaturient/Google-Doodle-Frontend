@@ -1,8 +1,6 @@
 gsap.to(".card", {
-    // x: -50,
-    // y: 50,
-    duration: 5,
-    delay: 2,
+    duration: 6,
+    delay: 2.9,
     rotate:360,
     stagger:0.6,
     repeat: -1,
