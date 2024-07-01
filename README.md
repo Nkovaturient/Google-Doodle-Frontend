@@ -9,4 +9,5 @@
 ## check it out!
 Status- [![Netlify Status](https://api.netlify.com/api/v1/badges/d01960b2-4853-475f-8a63-ec04713a9e8d/deploy-status?branch=main)](https://app.netlify.com/sites/doodley/deploys)
 
-Link- https://doodley.netlify.app/
+Link- https://doodley.netlify.app/  
+[P.S.- view it on Desktop, Laptop for better experience 🙂 😺 ]
